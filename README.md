@@ -91,7 +91,7 @@ Edit `config.toml` to customize:
 
 ## License
 
-This template is licensed under the [MIT License](LICENSE).
+This template is licensed under the [Apache License 2.0](LICENSE).
 
 ## Contributing
 

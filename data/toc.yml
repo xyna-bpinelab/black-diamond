@@ -1,6 +1,12 @@
-- name: Services
-  icon: fas fa-shopping-bag
-  url: service
+- name: Business
+  icon: fas fa-compass
+  url: business
   links:
-    - name: Service Catalog
-      url: service/catalog
+    - name: Mission
+      url: business
+    - name: Vision
+      url: business
+    - name: Values
+      url: business
+    - name: Strategy
+      url: business
