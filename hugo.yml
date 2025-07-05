@@ -1,5 +1,5 @@
-baseURL: https://xnya-bpinelab.github.io/ops-handbook/
-# baseURL: https://localhost:1313/ops-handbook/
+baseURL: https://xnya-bpinelab.github.io/black-diamond/
+# baseURL: https://localhost:1313/black-diamond/
 title: Ops Handbook
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
@@ -56,7 +56,7 @@ languages:
       main:
         - identifier: 'change-history'
           name: 'Change Log'
-          url: 'https://github.com/xyna-bpinelab/ops-handbook/commits/main'
+          url: 'https://github.com/xyna-bpinelab/black-diamond/commits/main'
           weight: 100
           pre: "<i class='fas fa-history'></i>"
   ja:
@@ -72,7 +72,7 @@ languages:
       main:
         - identifier: 'change-history'
           name: '変更履歴'
-          url: 'https://github.com/xyna-bpinelab/ops-handbook/commits/main'
+          url: 'https://github.com/xyna-bpinelab/black-diamond/commits/main'
           weight: 100
           pre: "<i class='fas fa-history'></i>"
 
@@ -127,10 +127,10 @@ params:
 
   # A link to latest version of the docs. Used in the "version-banner" partial to
   # point people to the main doc site.
-  url_latest_version: https://xyna-bpinelab.github.io/ops-handbook/
+  url_latest_version: https://xyna-bpinelab.github.io/black-diamond/
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: https://github.com/xyna-bpinelab/ops-handbook
+  github_repo: https://github.com/xyna-bpinelab/black-diamond/
 
   # An optional link to a related project repo. For example, the sibling repository where your product code lives.
   github_project_repo: https://github.com/google/docsy
@@ -218,7 +218,7 @@ params:
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: GitHub
-        url: https://github.com/xyna-bpinelab/ops-handbook
+        url: https://github.com/xyna-bpinelab/black-diamond
         icon: fab fa-github
         desc: Development takes place here!
       # - name: Slack
