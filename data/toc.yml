@@ -3,10 +3,22 @@
   url: business
   links:
     - name: Mission
-      url: business
+      url: business/mission
     - name: Vision
-      url: business
+      url: business/vision
     - name: Values
-      url: business
+      url: business/values
     - name: Strategy
-      url: business
+      url: business/strategy
+- name: Performance
+  icon: fas fa-chart-simple
+  url: performance
+  links:
+    - name: Philosophy
+      url: performance/philosophy
+    - name: KPI
+      url: performance/kpi
+    - name: Monitoring
+      url: performance/monitoring
+    - name: Incentives
+      url: performance/incentives

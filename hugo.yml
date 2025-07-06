@@ -1,6 +1,6 @@
 baseURL: https://xnya-bpinelab.github.io/black-diamond/
 # baseURL: https://localhost:1313/black-diamond/
-title: Ops Handbook
+title: Biz Handbook
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
@@ -48,9 +48,9 @@ languages:
   en:
     languageName: English
     contentDir: content/en
-    title: Ops Handbook
+    title: Biz Handbook
     params:
-      description: The OpsOps Handbook site
+      description: The Biz Handbook site
   # cSpell:disable
     menu:
       main:
@@ -62,9 +62,9 @@ languages:
   ja:
     languageName: 日本語
     contentDir: content/ja
-    title: Ops Handbook
+    title: Biz Handbook
     params:
-      description: The Ops Handbook site
+      description: The Biz Handbook site
       time_format_default: 2006.01.02
       time_format_blog: 2006.01.02
   # cSpell:enable
@@ -237,7 +237,7 @@ params:
     enable: true
 
   terms:
-    PJ: 'ops-handbook'
+    PJ: 'biz-handbook'
   
   katex:
     enable: true
