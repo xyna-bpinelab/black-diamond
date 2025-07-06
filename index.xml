@@ -1,6 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Ops Handbook on Ops Handbook</title><link>https://xnya-bpinelab.github.io/black-diamond/</link><description>Recent content in The Ops Handbook on Ops Handbook</description><generator>Hugo</generator><language>en</language><atom:link href="https://xnya-bpinelab.github.io/black-diamond/index.xml" rel="self" type="application/rss+xml"/><item><title>Mission</title><link>https://xnya-bpinelab.github.io/black-diamond/business/mission/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/business/mission/</guid><description>&lt;h2 id="enabling-customers-to-focus-on-value-creation-by-freeing-them-from-routine">Enabling Customers to Focus on Value Creation by Freeing Them from Routine&lt;a class="td-heading-self-link" href="#enabling-customers-to-focus-on-value-creation-by-freeing-them-from-routine" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;p>Our mission is to provide an environment where our customers (business units) can focus entirely on creating value. We free them from the complexity and time-consuming tasks of operating and maintaining IT systems. Through the power of IT, we offer robust support to ensure our customers’ precious time and energy are dedicated to driving business growth and innovation.&lt;/p></description></item><item><title>Vision</title><link>https://xnya-bpinelab.github.io/black-diamond/business/vision/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/business/vision/</guid><description>&lt;h2 id="building-a-resilient-it-infrastructure-and-operations-to-remain-a-business-partner-who-shapes-the-future">Building a Resilient IT Infrastructure and Operations to Remain a Business Partner Who Shapes the Future&lt;a class="td-heading-self-link" href="#building-a-resilient-it-infrastructure-and-operations-to-remain-a-business-partner-who-shapes-the-future" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;p>We are committed to thoroughly implementing the &amp;ldquo;asset-light&amp;rdquo; philosophy in the field of IT operations and maintenance. By pursuing the principle of &amp;ldquo;creating maximum business value with minimal capital, without burdening ourselves with heavy IT assets,&amp;rdquo; we aim for IT to become a strategic engine that drives sustained high growth and profitability for our business.&lt;/p></description></item><item><title>Values</title><link>https://xnya-bpinelab.github.io/black-diamond/business/values/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/business/values/</guid><description>&lt;h3 id="1-maximize-efficiency">1. Maximize Efficiency:&lt;a class="td-heading-self-link" href="#1-maximize-efficiency" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;p>We constantly eliminate waste and seek ways to generate the greatest impact with the smallest IT assets and resources.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Biz Handbook on Biz Handbook</title><link>https://xnya-bpinelab.github.io/black-diamond/</link><description>Recent content in The Biz Handbook on Biz Handbook</description><generator>Hugo</generator><language>en</language><atom:link href="https://xnya-bpinelab.github.io/black-diamond/index.xml" rel="self" type="application/rss+xml"/><item><title>Philosophy</title><link>https://xnya-bpinelab.github.io/black-diamond/performance/philosophy/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/performance/philosophy/</guid><description>&lt;h2 id="pursuit-of-asset-light-and-high-capital-efficiency">Pursuit of Asset-Light and High Capital Efficiency&lt;a class="td-heading-self-link" href="#pursuit-of-asset-light-and-high-capital-efficiency" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;p>We minimize the IT assets required for business operations and maximize the use of scalable, flexible external services. We thoroughly ensure the efficiency of maintenance and operations, consistently pursuing improved ROI.&lt;/p>
+&lt;h2 id="service-first-mindset">&amp;ldquo;Service-First&amp;rdquo; Mindset&lt;a class="td-heading-self-link" href="#service-first-mindset" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;p>We position &amp;ldquo;ensuring our customers&amp;rsquo; operations never stop&amp;rdquo; as the most important value, rather than focusing solely on systems themselves. All metrics and improvement activities are directly linked to business continuity and operational quality.&lt;/p></description></item><item><title>Mission</title><link>https://xnya-bpinelab.github.io/black-diamond/business/mission/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/business/mission/</guid><description>&lt;h2 id="enabling-customers-to-focus-on-value-creation-by-freeing-them-from-routine">Enabling Customers to Focus on Value Creation by Freeing Them from Routine&lt;a class="td-heading-self-link" href="#enabling-customers-to-focus-on-value-creation-by-freeing-them-from-routine" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;p>Our mission is to provide an environment where our customers (business units) can focus entirely on creating value. We free them from the complexity and time-consuming tasks of operating and maintaining IT systems. Through the power of IT, we offer robust support to ensure our customers’ precious time and energy are dedicated to driving business growth and innovation.&lt;/p></description></item><item><title>KPI</title><link>https://xnya-bpinelab.github.io/black-diamond/performance/kpi/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/performance/kpi/</guid><description>&lt;ul>
+&lt;li>&lt;strong>ROIC(投下資本利益率)&lt;/strong>: 投下資本に対する利益を最大化し、常に20%以上を目標に維持します。&lt;/li>
+&lt;li>&lt;strong>平均売上成長率&lt;/strong>: 年平均成長率8%以上を目標とし、10年で売上を倍増させるペースを確保します。&lt;/li>
+&lt;li>&lt;strong>営業利益率&lt;/strong>: 安定的に20%以上を維持し、不況期でも黒字を堅持します。&lt;/li>
+&lt;li>&lt;strong>サービス収益比率&lt;/strong>: 全収益のうち50%以上をサービスからの収益とし、ビジネスモデルの粘着性を高めます。&lt;/li>
+&lt;li>&lt;strong>顧客維持率&lt;/strong>: 継続契約率95%以上を維持します。&lt;/li>
+&lt;li>&lt;strong>配当性向&lt;/strong>: 利益の50%を株主還元に充当し、資本効率を意識した経営を行います。&lt;/li>
+&lt;/ul>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>カテゴリ&lt;/th>
+ &lt;th>KPI&lt;/th>
+ &lt;th>目標&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>資本効率&lt;/td>
+ &lt;td>ROIC&lt;/td>
+ &lt;td>&amp;gt;20%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>成長性&lt;/td>
+ &lt;td>年平均売上成長率&lt;/td>
+ &lt;td>&amp;gt;8%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>収益性&lt;/td>
+ &lt;td>営業利益率&lt;/td>
+ &lt;td>&amp;gt;20%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>継続性&lt;/td>
+ &lt;td>サービス収益比率&lt;/td>
+ &lt;td>&amp;gt;50%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>顧客維持&lt;/td>
+ &lt;td>契約更新率&lt;/td>
+ &lt;td>&amp;gt;95%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>株主還元&lt;/td>
+ &lt;td>配当性向&lt;/td>
+ &lt;td>50%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>これらのKPIは、IT運用・保守がコストセンターからプロフィットセンターへ進化する指標群として運用し、月次・四半期でレビューを行います。&lt;/p></description></item><item><title>Vision</title><link>https://xnya-bpinelab.github.io/black-diamond/business/vision/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/business/vision/</guid><description>&lt;h2 id="building-a-resilient-it-infrastructure-and-operations-to-remain-a-business-partner-who-shapes-the-future">Building a Resilient IT Infrastructure and Operations to Remain a Business Partner Who Shapes the Future&lt;a class="td-heading-self-link" href="#building-a-resilient-it-infrastructure-and-operations-to-remain-a-business-partner-who-shapes-the-future" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;p>We are committed to thoroughly implementing the &amp;ldquo;asset-light&amp;rdquo; philosophy in the field of IT operations and maintenance. By pursuing the principle of &amp;ldquo;creating maximum business value with minimal capital, without burdening ourselves with heavy IT assets,&amp;rdquo; we aim for IT to become a strategic engine that drives sustained high growth and profitability for our business.&lt;/p></description></item><item><title>Monitoring</title><link>https://xnya-bpinelab.github.io/black-diamond/performance/monitoring/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/performance/monitoring/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Real-Time Dashboard&lt;/strong>: Key KPIs such as ROIC, revenue growth rate, operating profit margin, and service revenue ratio are continuously visualized and made accessible online to management and stakeholders.&lt;/li>
+&lt;li>&lt;strong>Periodic Reports&lt;/strong>: Detailed reports are prepared monthly and quarterly, shared via an online platform, and clearly state year-on-year comparisons, target deviations, and improvement plans.&lt;/li>
+&lt;li>&lt;strong>Review&lt;/strong>: Instead of holding meetings, each responsible person reviews and comments independently based on reports and dashboards.&lt;/li>
+&lt;li>&lt;strong>Escalation Rules&lt;/strong>: If any KPI falls below defined thresholds, improvement plans are immediately prepared, shared online, and notified to management.&lt;/li>
+&lt;/ul></description></item><item><title>Values</title><link>https://xnya-bpinelab.github.io/black-diamond/business/values/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/business/values/</guid><description>&lt;h3 id="1-maximize-efficiency">1. Maximize Efficiency:&lt;a class="td-heading-self-link" href="#1-maximize-efficiency" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;p>We constantly eliminate waste and seek ways to generate the greatest impact with the smallest IT assets and resources.&lt;/p>
 &lt;h3 id="2-focus-on-value-creation">2. Focus on Value Creation:&lt;a class="td-heading-self-link" href="#2-focus-on-value-creation" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;p>We always ask whether everything we do directly contributes to the business and improves profitability, and we commit thoroughly to delivering results.&lt;/p>
-&lt;h3 id="3-co-create-with-business">3. Co-create with Business:&lt;a class="td-heading-self-link" href="#3-co-create-with-business" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;p>We regard our customers—the business units, operations teams, and maintenance teams—as true partners. We deeply share their challenges and goals, and create solutions together through the power of IT.&lt;/p></description></item><item><title>Strategy</title><link>https://xnya-bpinelab.github.io/black-diamond/business/strategy/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/business/strategy/</guid><description>&lt;h3 id="1-thorough-departure-from-and-optimization-of-heavy-it-assets">1. Thorough Departure from and Optimization of &amp;ldquo;Heavy IT Assets&amp;rdquo;&lt;a class="td-heading-self-link" href="#1-thorough-departure-from-and-optimization-of-heavy-it-assets" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;p>We will rigorously shift from ownership to usage, aiming for a lean and agile IT environment.&lt;/p>
+&lt;h3 id="3-co-create-with-business">3. Co-create with Business:&lt;a class="td-heading-self-link" href="#3-co-create-with-business" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;p>We regard our customers—the business units, operations teams, and maintenance teams—as true partners. We deeply share their challenges and goals, and create solutions together through the power of IT.&lt;/p></description></item><item><title>Incentives</title><link>https://xnya-bpinelab.github.io/black-diamond/performance/incentives/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/performance/incentives/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Performance-Based Compensation&lt;/strong>: Bonuses are provided according to the achievement levels of KPIs such as ROIC, operating profit margin, and service revenue ratio.&lt;/li>
+&lt;li>&lt;strong>Integration of Quantitative and Qualitative Evaluation&lt;/strong>: Contributions are evaluated not only based on KPI results but also on behavioral factors such as improvement proposals and value creation for customers.&lt;/li>
+&lt;li>&lt;strong>Clear Assignment of Responsibilities&lt;/strong>: An owner is assigned to each KPI, responsible for progress monitoring and developing improvement plans.&lt;/li>
+&lt;li>&lt;strong>Transparent Records and Disclosure&lt;/strong>: The status of achievements and the basis for rewards are documented and published online so that all members can access them.&lt;/li>
+&lt;li>&lt;strong>Encouragement of Innovation&lt;/strong>: Special rewards are provided for outstanding results that exceed KPIs or for innovative initiatives.&lt;/li>
+&lt;/ul></description></item><item><title>Strategy</title><link>https://xnya-bpinelab.github.io/black-diamond/business/strategy/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/black-diamond/business/strategy/</guid><description>&lt;h3 id="1-thorough-departure-from-and-optimization-of-heavy-it-assets">1. Thorough Departure from and Optimization of &amp;ldquo;Heavy IT Assets&amp;rdquo;&lt;a class="td-heading-self-link" href="#1-thorough-departure-from-and-optimization-of-heavy-it-assets" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;p>We will rigorously shift from ownership to usage, aiming for a lean and agile IT environment.&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;p>Eliminate unnecessary IT assets and migrate to the cloud:
